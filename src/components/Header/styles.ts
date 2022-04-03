@@ -27,7 +27,3 @@ export const Content = styled.div`
         }
     }
 `;
-
-export const Logo = styled.img``;
-
-export const Button = styled.button``;
